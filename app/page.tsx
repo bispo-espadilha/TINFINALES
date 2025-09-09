@@ -1900,7 +1900,7 @@ export default function SigiloX() {
                         }`}
                       >
                         <span className="block text-center leading-tight px-2">
-                          {isSubmittingEmail ? "Procesando..." : "🔍 INICIAR INVESTIGACIÓN - DESCUBRE LA VERDAD"}
+                          {isSubmittingEmail ? "Procesando..." : "🔍 INICIAR INVESTIGACIÓN"}
                         </span>
                       </Button>
 
@@ -2079,7 +2079,7 @@ export default function SigiloX() {
                       className="w-full bg-gradient-to-r from-[#FF0066] to-[#FF3333] hover:from-[#FF0066] hover:to-[#FF3333] text-white font-bold py-3 sm:py-4 text-sm sm:text-base md:text-lg rounded-xl shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 mb-4 sm:mb-6 overflow-hidden flex items-center justify-center text-center"
                     >
                       <span className="block text-center leading-tight px-2 break-words whitespace-normal">
-                        🔓 DESBLOQUEAR EVIDENCIA COMPLETA – VER TODO
+                        🔓 DESBLOQUEAR EVIDENCIA COMPLETA
                       </span>
                     </Button>
 
