@@ -2420,7 +2420,7 @@ export default function SigiloX() {
   rel="noopener noreferrer"
   className="block w-full text-center bg-gradient-to-r from-[#FF0066] to-[#FF3333] hover:from-[#FF0066] hover:to-[#FF3333] text-white font-bold py-4 sm:py-6 text-sm sm:text-base md:text-lg rounded-xl shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 mb-4 sm:mb-6 overflow-hidden"
 >
-  <span className="block text-center leading-tight px-2"> 🔓 DESBLOQUEAR MI INFORME - ESTOY LISTO/A PARA LA VERDAD </span>
+  <span className="block text-center leading-tight px-2"> 🔓 DESBLOQUEAR MI INFORME </span>
 </a>
 
                     {/* Reafirmación Final */}
